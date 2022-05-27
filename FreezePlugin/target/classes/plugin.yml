@@ -1,8 +1,0 @@
-name: Freezzze
-version: '1.0-SNAPSHOT'
-main: me.weirdestboi.freezzze.Freezzze
-commands:
-  freeze:
-    description: Freeze A Player!
-  freezelist:
-    description: List all Frozen Players!
